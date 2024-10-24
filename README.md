@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)](https://momin-tahir.io)
+![Design and Development](https://github.com/Goutham990/goutham990/blob/3c6bf8ac29c228799d64313132ce2fd27931c75b/Portfolioslide.gif)
 
 <h1 align="center">Hi 👋, I'm Goutham Nayak</h1>
 <h3 align="center">A passionate frontend developer and UI/UX Designer from India</h3>
