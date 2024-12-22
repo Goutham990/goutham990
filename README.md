@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/Goutham990/goutham990/blob/3c6bf8ac29c228799d64313132ce2fd27931c75b/Portfolioslide.gif)
+![Design and Development](https://github.com/Goutham990/goutham990/blob/9f8e470e244a2d24c3d0ffdafc4006fa3a54b90c/Portfolioslide.gif)
 
 <h1 align="center">Hi 👋, I'm Goutham Nayak</h1>
 <h3 align="center">A passionate frontend developer and UI/UX Designer from India</h3>
