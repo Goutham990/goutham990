@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://twitter.com/gouthamnayak99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gouthamnayak99" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/karamtoth goutham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karamtoth goutham" height="30" width="40" /></a>
-<a href="https://fb.com/goutham nayak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="goutham nayak" height="30" width="40" /></a>
+<a href="https://www.facebook.com/goutham990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="goutham nayak" height="30" width="40" /></a>
 <a href="https://instagram.com/gouthamxt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gouthamxt" height="30" width="40" /></a>
 </p>
 
