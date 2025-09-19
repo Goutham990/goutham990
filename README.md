@@ -14,7 +14,6 @@
 
 - 📫 How to reach me **kgouthamnayak61039@gmail.com**
 
-- ⚡ Fun fact **Im Cool**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
