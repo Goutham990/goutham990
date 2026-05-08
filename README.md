@@ -7,7 +7,6 @@
 -  I’m currently working on **Android App Development**
 
 -  I’m currently learning **React Native,Flutter**
--   I'm currently working on [CampusBuzz](https://linktr.ee/campusbuzz.site)
 -  Here, My Portfolio [https://gouthamweb.vercel.app/](https://gouthamweb.vercel.app/)
 
 -  Ask me about **Reactjs,Nextjs**
