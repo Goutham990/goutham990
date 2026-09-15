@@ -11,7 +11,7 @@
 
 -  Ask me about **Reactjs,Nextjs**
 
--  How to reach me **kgouthamnayak61039@gmail.com**
+-  Reach me out **kgouthamnayak61039@gmail.com**
 
 
 <!-- <h3 align="left">Connect with me:</h3>
