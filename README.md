@@ -13,6 +13,7 @@
 
 -  Reach me out **kgouthamnayak61039@gmail.com**
 
+-  [![Visits](https://komarev.com/ghpvc/?username=goutham990&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/Goutham990)
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
