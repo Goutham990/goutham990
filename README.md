@@ -1,4 +1,5 @@
-![Design and Development](https://github.com/Goutham990/goutham990/blob/90ff829b2ddc94f56a1e16c2c61b69b92e599e0b/Portfolioslide.gif)
+![Goutham's GitHub Header](./header.svg)
+
 
 <h1 align="center">Hi, I'm Goutham </h1>
 <h3 align="center">A passionate frontend developer and UI/UX Designer from India</h3>
